@@ -22,3 +22,4 @@ The debug filters look at the global variable `DEBUG` defined in `filters.py`
 
 Example
 ========
+![Gif showing how to use the code in this repo](intro_to_python_logging.gif?raw=true)
