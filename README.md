@@ -1,7 +1,7 @@
 An intro to Python logging
 ===========================
 
-This repository serves as a sample code to the article
+This repository serves as a sample code to the [Introductino to python logging]() article.
 
 How to run
 ===========
@@ -12,7 +12,13 @@ Written in Python 3.8
 $ python main.py
 ```
 
+Select what type of configuration you would like to try out
+
 Logging configs
 ================
 
 You can play around with different logging configs by updating the code in `configs.py`
+The debug filters look at the global variable `DEBUG` defined in `filters.py`
+
+Example
+========
