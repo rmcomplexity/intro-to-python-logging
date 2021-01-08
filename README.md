@@ -1,7 +1,13 @@
-An intro to Python logging
+Intro to Python logging
 ===========================
 
-This repository serves as a sample code to the [Introductino to python logging](https://rmcomplexity.com/article/2020/12/01/introduction-to-python-logging.html) article.
+:rotating_light: You need to improve a project's logging config and need somewhere to start.
+
+:fire: You can use this repo as a starting point, it has a full logging configuration using dict, code or file.
+
+:tada: Now it's easier to setup your app's logging config by using this repo.
+
+If you want to learn more go to [Introductino to python logging](https://rmcomplexity.com/article/2020/12/01/introduction-to-python-logging.html) article.
 
 How to run
 ===========
