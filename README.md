@@ -1,7 +1,7 @@
 An intro to Python logging
 ===========================
 
-This repository serves as a sample code to the [Introductino to python logging]() article.
+This repository serves as a sample code to the [Introductino to python logging](https://rmcomplexity.com/article/2020/12/01/introduction-to-python-logging.html) article.
 
 How to run
 ===========
