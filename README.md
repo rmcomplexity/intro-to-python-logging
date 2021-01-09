@@ -7,7 +7,11 @@ Intro to Python logging
 
 :tada: Now it's easier to setup your app's logging config by using this repo.
 
-If you want to learn more go to [Introductino to python logging](https://rmcomplexity.com/article/2020/12/01/introduction-to-python-logging.html) article.
+If you want to learn more go to [Introduction to python logging](https://rmcomplexity.com/article/2020/12/01/introduction-to-python-logging.html) article.
+
+Example
+========
+![Gif showing how to use the code in this repo](intro_to_python_logging.gif?raw=true)
 
 How to run
 ===========
@@ -25,7 +29,3 @@ Logging configs
 
 You can play around with different logging configs by updating the code in `configs.py`
 The debug filters look at the global variable `DEBUG` defined in `filters.py`
-
-Example
-========
-![Gif showing how to use the code in this repo](intro_to_python_logging.gif?raw=true)
